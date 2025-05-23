@@ -1,0 +1,25 @@
+/* App.css */
+body {
+  background: linear-gradient(to right, #667eea, #764ba2);
+  color: white;
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+a {
+  color: #ffc107;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
